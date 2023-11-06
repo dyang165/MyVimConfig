@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/scratch1/dyang165/Research/Research/MOEMM/configs/generative'
+let g:netrw_dirhist_2='/scratch1/dyang165/Research/Research/MOEMM/configs/mm_train_time'
+let g:netrw_dirhist_3='/scratch1/dyang165/Research/Research/MOEMM/configs/best_fusion'
+let g:netrw_dirhist_4='/scratch1/dyang165/Research/Research/MOEMM/transformers/src/transformers/models/tvlt'
+let g:netrw_dirhist_5='/scratch1/dyang165/Research/Research/MOEMM/configs/early_fusion_results/avmnist'
+let g:netrw_dirhist_6='/scratch1/dyang165/Research/Research/MOEMM_public/models/README.md'
+let g:netrw_dirhist_7='/home1/dyang165/work/embeddings'
